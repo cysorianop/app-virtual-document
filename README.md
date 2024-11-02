@@ -1,6 +1,6 @@
 # Virtual Document Drawer App
 
-![Logo](../app-virtual-document/src/assets/Screenshot_13.png)  <!-- Opcional: Agrega un logo o imagen representativa -->
+![Logo](src/assets/Screenshot_13.png) 
 
 ## Descripción
 
@@ -57,32 +57,35 @@ La **Virtual Document Drawer App** es una aplicación web diseñada para gestion
 
 ## Capturas de Pantalla
 
-Login
-![Logo](../app-virtual-document/src/assets/Screenshot_13.png)
+# Login
+![Logo](src/assets/Screenshot_13.png)
 
-Registrarse
-![Logo](../app-virtual-document/src/assets/Screenshot_14.png)
+# Registrarse
+![Logo](src/assets/Screenshot_14.png)
 
-Formulario
-![Logo](../app-virtual-document/src/assets/Screenshot_16.png)
+# Formulario
+![Logo](src/assets/Screenshot_15.png)
 
-Anclar
-![Logo](../app-virtual-document/src/assets/Screenshot_21.png)
+# Cuadrillas
+![Logo](src/assets/Screenshot_16.png)
 
-Eliminar
-![Logo](../app-virtual-document/src/assets/Screenshot_20.png)
+# Anclar
+![Logo](src/assets/Screenshot_17.png)
 
-Editar
-![Logo](../app-virtual-document/src/assets/Screenshot_22.png)
+# Eliminar
+![Logo](src/assets/Screenshot_18.png)
 
-Informacion
-![Logo](../app-virtual-document/src/assets/Screenshot_18.png)
+# Editar
+![Logo](src/assets/Screenshot_20.png)
 
-Enviar
-![Logo](../app-virtual-document/src/assets/Screenshot_19.png)
+# Informacion
+![Logo](assets/Screenshot_19.png)
 
-Cerrar sesion
-![Logo](../app-virtual-document/src/assets/Screenshot_23.png)
+# Enviar
+![Logo](src/assets/Screenshot_21.png)
+
+# Cerrar sesion
+![Logo](src/assets/Screenshot_22.png)
 
 ## Contribuciones
 Si deseas contribuir a este proyecto, siéntete libre de realizar un fork y enviar un pull request. Se aceptan sugerencias y mejoras.
